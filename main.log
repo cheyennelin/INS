@@ -1,0 +1,372 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=latex 2015.10.13)  14 JUN 2016 19:11
+entering extended mode
+**main.tex
+(main.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+(elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.20b: Elsevier Ltd
+\@bls=\dimen102
+(C:\scratch\MikTex\tex\latex\base\article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(C:\scratch\MikTex\tex\latex\base\size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(C:\scratch\MikTex\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\scratch\MikTex\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\scratch\MikTex\tex\latex\graphics\graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\scratch\MikTex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\scratch\MikTex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 94.
+
+(C:\scratch\MikTex\tex\latex\graphics\dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(C:\scratch\MikTex\tex\latex\psnfss\pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(C:\scratch\MikTex\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(C:\scratch\MikTex\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count87
+\c@fnote=\count88
+\c@cnote=\count89
+\c@ead=\count90
+\c@author=\count91
+\@eadauthor=\toks15
+\c@affn=\count92
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+ (main.spl)
+(C:\scratch\MikTex\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+\splwrite=\write3
+\appnamewidth=\dimen109
+)
+(C:\scratch\MikTex\tex\latex\algorithm2e\algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count94
+
+(C:\scratch\MikTex\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\scratch\MikTex\tex\latex\tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\scratch\MikTex\tex\latex\ltxmisc\relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip47
+\skiplinenumber=\skip48
+\skiprule=\skip49
+\skiphlne=\skip50
+\skiptext=\skip51
+\skiplength=\skip52
+\algomargin=\skip53
+\skipalgocfslide=\skip54
+\algowidth=\dimen110
+\inoutsize=\dimen111
+\inoutindent=\dimen112
+\interspacetitleruled=\dimen113
+\interspacealgoruled=\dimen114
+\interspacetitleboxruled=\dimen115
+\algocf@inoutbox=\box30
+\algocf@inputbox=\box31
+\AlCapSkip=\skip55
+\AlCapHSkip=\skip56
+\algoskipindent=\skip57
+\algocf@nlbox=\box32
+\algocf@hangingbox=\box33
+\algocf@untilbox=\box34
+\algocf@skipuntil=\skip58
+\algocf@capbox=\box35
+\algoheightruledefault=\skip59
+\algoheightrule=\skip60
+\algotitleheightruledefault=\skip61
+\algotitleheightrule=\skip62
+\c@algocfline=\count95
+\c@algocfproc=\count96
+\c@algocf=\count97
+\algocf@algoframe=\box36
+\algocf@algobox=\box37
+) (C:\scratch\MikTex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\scratch\MikTex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\scratch\MikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip63
+
+For additional information on amsmath, use the `?' option.
+(C:\scratch\MikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\scratch\MikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen116
+))
+(C:\scratch\MikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen117
+)
+(C:\scratch\MikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box38
+\strutbox@=\box39
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks19
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks20
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks21
+\multlinegap=\skip64
+\multlinetaggap=\skip65
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(C:\scratch\MikTex\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen125
+\epsfysize=\dimen126
+)
+(C:\scratch\MikTex\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip66
+\subfigcapskip=\skip67
+\subfigcaptopadj=\dimen127
+\subfigbottomskip=\skip68
+\subfigcapmargin=\dimen128
+\subfiglabelskip=\skip69
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\scratch\MikTex\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip70
+\subfig@bottom=\skip71
+)
+(C:\scratch\MikTex\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\scratch\MikTex\tex\latex\psnfss\helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(C:\scratch\MikTex\tex\latex\psnfss\courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(C:\scratch\MikTex\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen129
+) (main.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 13.
+
+(C:\scratch\MikTex\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+
+(C:\scratch\MikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+
+(C:\scratch\MikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 29.
+
+(C:\scratch\MikTex\tex\latex\psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+ [1
+
+
+] [2
+
+] [3] [4] [5] [6]
+File: PGM.eps Graphic file (type eps)
+
+<PGM.eps>
+File: architecture.eps Graphic file (type eps)
+ <architecture.eps>
+Overfull \hbox (106.46384pt too wide) in paragraph at lines 121--133
+[][] 
+ []
+
+[7] [8]
+Overfull \hbox (41.1567pt too wide) in paragraph at lines 175--176
+\OT1/ptm/m/n/12 then the re-views can be grouped into $\OML/cmm/m/it/12 K  \OT1
+/cmr/m/n/12 +  1$ \OT1/ptm/m/n/12 cat-e-gories: $\OMS/cmsy/m/n/12 f\OML/cmm/m/i
+t/12 E[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 
+; []  ; E[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/
+12 ; E[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 
+g$\OT1/ptm/m/n/12 ,
+ []
+
+[9] [10] [11]
+File: data.eps Graphic file (type eps)
+ <data.eps>
+File: feature.eps Graphic file (type eps)
+ <feature.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
+[]\OT1/ptm/m/n/10 (b) Dis-tri-bu-tion of
+ []
+
+[12] [13]
+Overfull \hbox (8.97691pt too wide) in paragraph at lines 329--344
+ [][] 
+ []
+
+[14]
+File: KL.eps Graphic file (type eps)
+ <KL.eps>
+File: CoDianping.eps Graphic file (type eps)
+ <CoDianping.eps>
+File: CoUser.eps Graphic file (type eps)
+ <CoUser.eps>
+File: CoReview.eps Graphic file (type eps)
+ <CoReview.eps>
+File: CoRanking.eps Graphic file (type eps)
+ <CoRanking.eps>
+File: CoOurs.eps Graphic file (type eps)
+
+<CoOurs.eps> [15]
+File: 1.eps Graphic file (type eps)
+ <1.eps>
+File: 2.eps Graphic file (type eps)
+ <2.eps>
+File: 3.eps Graphic file (type eps)
+ <3.eps>
+File: 4.eps Graphic file (type eps)
+ <4.eps>
+File: 5.eps Graphic file (type eps)
+ <5.eps> [16]
+Underfull \hbox (badness 1184) in paragraph at lines 460--465
+\OT1/ptm/m/n/12 sys-tems us-ing a mul-ti-di-men-sional ap-proach.  \OT1/ptm/m/i
+t/12 ACM Trans. Inf. Syst.\OT1/ptm/m/n/12 ,
+ []
+
+[17]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+ [18] [19] [20]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+ [21] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3904 strings out of 493674
+ 49391 string characters out of 3148052
+ 133226 words of memory out of 3000000
+ 7186 multiletter control sequences out of 15000+200000
+ 17402 words of font info for 58 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 32i,10n,30p,1402b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on main.dvi (21 pages, 70092 bytes).
